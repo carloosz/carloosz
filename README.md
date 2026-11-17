@@ -1,5 +1,14 @@
-### Olá, meu nome é Carlos, mais conhecido como CarL
+# Olá, eu sou o Carlos 👋
 
-<p>Desenvolvedor Back-End 🚀😶‍🌫️</p>
+Desenvolvedor Backend com 2+ anos de experiência em **Node.js, NestJS e TypeScript**,
+focado em APIs escaláveis e integrações (pagamentos, tempo real, mensageria).
+Aberto a vagas **Backend e Fullstack**.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CarL&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+## 🛠️ Stack
+**Backend:** Node.js, NestJS, Express, Strapi, TypeORM
+**Front:** React, Next.js
+**Bancos:** PostgreSQL, MySQL, Firestore
+**Ferramentas:** Git, CI/CD, Nginx, Render, Cloudinary
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/chsf/)
