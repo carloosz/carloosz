@@ -7,7 +7,7 @@ Aberto a vagas **Backend e Fullstack**.
 ## 🚀 Projetos em destaque
 
 - [**Cineframe**](https://github.com/carloosz/cineframe-backend) · Rede social de filmes (estilo Letterboxd): API em NestJS com TMDB, feed de atividade, notificações e login com Google
-- [**Sistema de gestão de RH**](https://sistemagestaorh.netlify.app) · Sistema Web de Gestão de Recursos Humanos: API em Node.js com Strapi, controle de funcionários, export de PDF
+- [**Sistema de gestão de RH**](https://github.com/carloosz/sistema-gestao-rh-backend) · Sistema Web de Gestão de Recursos Humanos: API em Node.js com Strapi, controle de funcionários, export de PDF
 
 ## 🛠️ Stack
 
